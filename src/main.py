@@ -35,7 +35,7 @@ def search_procuradoria(reader, start_page):
             break
 
 def main():
-    pdf_src = "01-08-2025.pdf"
+    pdf_src = "documents/01-08-2025.pdf"
     reader = PdfReader(pdf_src)
 
     try:
