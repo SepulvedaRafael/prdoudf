@@ -17,18 +17,15 @@ Antes de clonar este repositório, certifique-se de cumprir com todos os requisi
 
 - Você possui instalado uma versão estável da linguagem `python`.
 - Você possui instalado um ambiente de desenvolvimento, como `Visual Studio Code` ou outro de sua preferência.
-- Certifique-se de possuir todas as dependências que coincidirem com a sua opção de estudo. Caso contrário, verifique a seção `🚀 Instalando as dependências`.
+- Certifique-se de a dependência necessária. Caso contrário, verifique a seção `🚀 Instalando as dependências`.
 
-## 🚀 Instalando as dependências (???)
-Esse repositório utiliza algumas dependências fundamentais para o seu funcionamento, visando uma melhor performance e efetividade na resolução do problema, sendo estas:
+## 🚀 Instalando a dependência
+Esse repositório utiliza uma dependênia fundamental para o seu funcionamento, visando uma melhor performance e efetividade na resolução do problema, sendo ela:
 
 *PyPDF2:*
 ```
 pip install PyPDF2
 ```
-
-> [!IMPORTANT]
-> Execute cada linha individualmente e certifique que a instalação foi realizada com sucesso.
 
 ## 📝 References
 **FENNIAK, Mathieu; THOMA, Martin**. Disponível em: https://pypi.org/project/PyPDF2/. Acesso em: 1 set. 2025.
